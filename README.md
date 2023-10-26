@@ -27,7 +27,7 @@
 
 ### Description
 
-📺 [YouTube Playlist]() for this repository.
+📺 [YouTube Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MexSAh5x1R3rU6Mg2zYBVr) for this repository.
 
 🚀 This repository shares ALL of the resources referenced during the NestJS for Beginners tutorial series.
 
