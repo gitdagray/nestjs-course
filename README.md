@@ -55,4 +55,5 @@
 ### 💻 Source Code
 
 - 🔗 [Chapter 1 - Introduction & Setup](https://github.com/gitdagray/nestjs-course/tree/main/lesson01)
+- 🔗 [Chapter 2 - Controllers](https://github.com/gitdagray/nestjs-course/tree/main/lesson02)
 
