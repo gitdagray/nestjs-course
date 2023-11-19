@@ -49,6 +49,7 @@
 
 ### 📚 References
 - 🔗 [NestJS Official Site](https://nestjs.com/)
+- 🔗 [Class Validators](https://github.com/typestack/class-validator#validation-decorators)
 
 ---
 
