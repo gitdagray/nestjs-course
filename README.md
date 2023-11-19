@@ -57,4 +57,5 @@
 - 🔗 [Chapter 1 - Introduction & Setup](https://github.com/gitdagray/nestjs-course/tree/main/lesson01)
 - 🔗 [Chapter 2 - Controllers](https://github.com/gitdagray/nestjs-course/tree/main/lesson02)
 - 🔗 [Chapter 3 - Providers & Dependency Injection](https://github.com/gitdagray/nestjs-course/tree/main/lesson03)
+- 🔗 [Chapter 4 - DTO Validation & Error Handling](https://github.com/gitdagray/nestjs-course/tree/main/lesson04)
 
