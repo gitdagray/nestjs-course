@@ -50,6 +50,8 @@
 ### 📚 References
 - 🔗 [NestJS Official Site](https://nestjs.com/)
 - 🔗 [Class Validators](https://github.com/typestack/class-validator#validation-decorators)
+- 🔗 [Neon Serverless Postgres](https://neon.tech/)
+- 🔗 [Prisma ORM](https://www.prisma.io/)
 
 ---
 
@@ -59,4 +61,5 @@
 - 🔗 [Chapter 2 - Controllers](https://github.com/gitdagray/nestjs-course/tree/main/lesson02)
 - 🔗 [Chapter 3 - Providers & Dependency Injection](https://github.com/gitdagray/nestjs-course/tree/main/lesson03)
 - 🔗 [Chapter 4 - DTO Validation & Error Handling](https://github.com/gitdagray/nestjs-course/tree/main/lesson04)
+- 🔗 [Chapter 5 - Build a REST API w/ Prisma and Neon](https://github.com/gitdagray/nestjs-course/tree/main/lesson05)
 
