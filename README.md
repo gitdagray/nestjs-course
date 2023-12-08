@@ -1,6 +1,6 @@
 # "NestJS for Beginners"
 
-### Full Course - ?? Chapters
+### Full Course - 6 Chapters
 
 ---
 
@@ -52,6 +52,7 @@
 - 🔗 [Class Validators](https://github.com/typestack/class-validator#validation-decorators)
 - 🔗 [Neon Serverless Postgres](https://neon.tech/)
 - 🔗 [Prisma ORM](https://www.prisma.io/)
+- 🔗 [nestjs-primsa](https://nestjs-prisma.dev/)
 
 ---
 
@@ -62,4 +63,5 @@
 - 🔗 [Chapter 3 - Providers & Dependency Injection](https://github.com/gitdagray/nestjs-course/tree/main/lesson03)
 - 🔗 [Chapter 4 - DTO Validation & Error Handling](https://github.com/gitdagray/nestjs-course/tree/main/lesson04)
 - 🔗 [Chapter 5 - Build a REST API w/ Prisma and Neon](https://github.com/gitdagray/nestjs-course/tree/main/lesson05)
+- 🔗 [Chapter 6 - CORS, Rate Limiting, & More](https://github.com/gitdagray/nestjs-course/tree/main/lesson06)
 
